@@ -195,6 +195,6 @@ Community-Based Disaster Management System Project
 
 **⭐ If you find this helpful, please star the repository!**
 
-Built with ❤️ by Priya | SkyForger Technologies Internship 2024
+Built with ❤️ by Priyamani | SkyForger Technologies Internship 2026
 
 </div>
